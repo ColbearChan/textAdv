@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/GameObject.cpp
+GameObject.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/GameObject.h
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/GameObject.h
+string
+-
+list
+-
+map
+-
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/Room.cpp
+Room.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/Room.h
+wordwrap.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/wordwrap.h
+string.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/string.h
+strings.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/strings.h
+iostream
+-
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/Room.h
+string
+-
+forward_list
+-
+list
+-
+GameObject.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/GameObject.h
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/State.cpp
+State.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/State.h
+wordwrap.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/wordwrap.h
+strings.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/strings.h
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/State.h
+Room.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/Room.h
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/main.cpp
+iostream
+-
+iomanip
+-
+memory
+-
+iterator
+-
+vector
+-
+forward_list
+-
+Room.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/Room.h
+wordwrap.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/wordwrap.h
+State.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/State.h
+strings.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/strings.h
+fstream
+-
+windows.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/windows.h
+dirent.h
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/dirent.h
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/strings.h
+string
+-
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/wordwrap.cpp
+cstdint
+-
+afxres.h
+-
+iterator
+-
+iostream
+-
+
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/wordwrap.h
+string
+-
+

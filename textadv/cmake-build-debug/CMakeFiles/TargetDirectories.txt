@@ -1,0 +1,3 @@
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Uni/Submissions/third year first semster/U08028 C and C++/CourseworkOne/textadv/cmake-build-debug/CMakeFiles/textadv.dir

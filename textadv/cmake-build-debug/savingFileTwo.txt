@@ -1,0 +1,8 @@
+player_current_room:Room 1
+player inventory:
+Blue Room:
+Charlie's Room:
+Colbert's Room:
+Mike's Room:
+Room 1:object one,object two,object three,
+Will's Room:
